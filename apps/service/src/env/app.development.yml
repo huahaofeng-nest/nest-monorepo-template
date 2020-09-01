@@ -1,0 +1,3 @@
+app:
+  name: nest-monorepo-template
+  port: 3001
